@@ -1,7 +1,3 @@
-# Hello
+## Analysis Project
 
-I love ☕ 🎹 and 💃
-
-I am currently a Senior Decision Science Analyst at Asda, specialising in customer engagement and omnichannel personalisation.
-
-
+#this project will focus on how I would analyse a dataset
